@@ -1428,7 +1428,6 @@
 				TargetAttributes = {
 					A9286C951E3A9216008E5F81 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 2X94RM7457;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -1439,7 +1438,7 @@
 					};
 					A98378231E42BF3100170319 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 2X94RM7457;
+						DevelopmentTeam = 7N96EW782T;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
@@ -2036,7 +2035,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Bluefruit/Platform/iOS/Bluefruit.entitlements;
-				DEVELOPMENT_TEAM = 2X94RM7457;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Bluefruit/Platform/iOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -2053,7 +2052,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Bluefruit/Platform/iOS/Bluefruit.entitlements;
-				DEVELOPMENT_TEAM = 2X94RM7457;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Bluefruit/Platform/iOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -2071,7 +2070,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2X94RM7457;
+				DEVELOPMENT_TEAM = 7N96EW782T;
 				INFOPLIST_FILE = Bluefruit/Platform/macOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
@@ -2089,7 +2088,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2X94RM7457;
+				DEVELOPMENT_TEAM = 7N96EW782T;
 				INFOPLIST_FILE = Bluefruit/Platform/macOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
